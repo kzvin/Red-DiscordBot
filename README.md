@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/Q8gygxPd52">
-    <img src="https://discord.com/api/guilds/825181209772294185/widget.json" alt="Error 404">
+    <img src="https://discordapp.com/api/guilds/825181209772294185/widget.png?style=shield" alt="Error 404">
   </a>
  </p>
 
@@ -55,6 +55,7 @@ Prohibida toda invitación que refiera a otro servidor no relacionado con PinkBo
 • Prohibido intentar obtener contraseñas u otra información privada de otros miembros (incluyendo cualquier dirección IP).
 
 # 2. Normas de ayuda en la comunidad
+
 ## 2.1 Ayudas ilícitas:
 
 
@@ -69,7 +70,7 @@ Prohibida toda invitación que refiera a otro servidor no relacionado con PinkBo
 
 • Intentar no molestar o mencionar con frecuencia a los usuarios, espera tu tiempo y ten paciencia.
 
-## En caso de incurrir con las reglas de la Comunidad, según sea el caso se procederá de la siguiente manera:
+### En caso de incurrir con las reglas de la Comunidad, según sea el caso se procederá de la siguiente manera:
 
 
 • Se le notificará al miembro de la comunidad acerca de su falta.
@@ -78,7 +79,7 @@ Prohibida toda invitación que refiera a otro servidor no relacionado con PinkBo
 
 • De persistir el miembro después de los pasos anteriores, se procederá a sancionarlo (Expulsado o Baneado).
 
-# Queda prohibido totalmente abusar de un vacío legal dentro de las normas, se procederá a un baneo instantáneo.
+### Queda prohibido totalmente abusar de un vacío legal dentro de las normas, se procederá a un baneo instantáneo.
 
 
 
